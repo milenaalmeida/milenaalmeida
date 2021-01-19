@@ -2,7 +2,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=milenaalmeida&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/milenaalmeida/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalmeida)](https://github.com/milenaalmeida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalmeida&layout=compact)](https://github.com/milenaalmeida/github-readme-stats)
 <!--
 **milenaalmeida/milenaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
