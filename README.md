@@ -18,8 +18,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalmeida)](https://github.com/milenaalmeida/github-readme-stats)
-
 
  
 <!--
