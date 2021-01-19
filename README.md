@@ -19,7 +19,7 @@
 ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-![Estatísticas do github de Anurag](https://github-readme-stats.vercel.app/api?username=milenaalmeida&count_private=true&show_icons=true&theme=highcontrast)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=milenaalmeida&count_private=true&show_icons=true&theme=highcontrast)
 
 
  
