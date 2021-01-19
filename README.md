@@ -1,6 +1,4 @@
-### Hi there 👋
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Milena Almeida" title="👋 Hi there! I'm Milena Almeida"]
- 
+### Hi there 👋 
 ## I'm Milena Almeida
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milenaalmeida)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenaalmeidasantos/)
